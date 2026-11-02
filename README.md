@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**1-15-33/1-15-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Klim, a 13-year-old developer from Russia.
 
-Here are some ideas to get you started:
+🔢 **1-15-33** — this is not just a random number. It's my personal code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Skills:
+- **Languages:** Python, HTML/CSS/JS.
+- **Web Security:** SQL Injection (SQLi), Cross-Site Scripting (XSS), IDOR, CSRF.
+- **Tools & Frameworks:** FastAPI, SQLAlchemy, Git, Burp Suite.
+
+## 🚀 Projects:
+- **Anya Messenger:** A full-stack messenger built with Python + FastAPI + WebSocket. (Includes auth, chats, groups, blacklist).
+- **Anya AI:** My personal AI project.
+
+## 🎯 My Goal:
+I want to join **VK Red Team**. I'm studying networks, writing reports, and solving CTF challenges every day. I'm not just learning — I'm building my future.
+
+*"Looking for vulnerabilities (and maybe something more)."*
