@@ -6,7 +6,7 @@ I'm Klim, a 13-year-old developer from Russia.
 
 ## 💻 Tech Stack & Skills:
 - **Languages:** Python, HTML/CSS/JS.
-- **Practicing: Web Security:** SQL Injection (SQLi), Cross-Site Scripting (XSS), IDOR, CSRF.
+- **Practicing Web Security:** SQL Injection (SQLi), Cross-Site Scripting (XSS), IDOR, CSRF.
 - **Tools & Frameworks:** FastAPI, SQLAlchemy, Git, Burp Suite.
 
 ## 🚀 Projects:
